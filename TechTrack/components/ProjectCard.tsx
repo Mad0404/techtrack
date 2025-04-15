@@ -1,1 +1,1 @@
-<!-- Project Card component -->
+// <!-- Project Card component -->
