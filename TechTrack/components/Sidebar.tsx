@@ -1,1 +1,1 @@
-<!-- Sidebar component -->
+// <!-- Sidebar component -->
